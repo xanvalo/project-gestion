@@ -1,0 +1,1 @@
+Ce projet permet de gérer la répartition des tâches des différents employés d'une entreprise, leurs salaires, leurs congés, leurs formations, leurs renvoi, leurs départs ainsi qu'un support de connexion parmi eux référant à leur type de poste en sein de l'entreprise.
